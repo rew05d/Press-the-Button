@@ -13,7 +13,7 @@
             "nextPageID": "A"
         }]
     }, {
-        "pageID": "VS1",
+        "pageID": "1.1",
         "pagetitle": "You are in a Void. Again.",
         "pagecontent": "<p>Here. Again? You wonder how you got here. This means that is a place and is not a dream? If that is the case, then where are you? Why does getting close to the button always make you feel so queasy?</p><p>That pit in your stomach is the only reason you have yet to push the button. You think back to the last few seconds. Oh god. Did you just die? You vomit on the floor.</p><p>You look around for the millionth time. There is nothing but darkness. Nothing but the void and the button. You have nothing to lose and nowhere to go.</p><p>Your hand hovers just above the button. </p>",
         "pageimg": "images/PtB-center.jpg",
@@ -109,7 +109,7 @@
         "color": "#445041",
         "pagechoice": [{
             "choicecontent": "Close your eyes and hope you live.",
-            "nextPageID": "VS1"
+            "nextPageID": "1.1"
         }]
     }, {
         "pageID": "F",
@@ -121,7 +121,7 @@
             "choicecontent": "Give your status report and tell the team what you are working on today.",
             "nextPageID": "G"
         }, {
-            "choicecontent": "Say, 'You know what? I quit.' And leave the building.",
+            "choicecontent": "Say, &quot;You know what? I quit.&quot; And leave the building.",
             "nextPageID": "H"
         }]
     }, {
