@@ -97,7 +97,7 @@
             "pagechoice": 
                 [{
                 "choicecontent": "Close your eyes and hope you live.",
-                "nextPageID": "1"
+                "nextPageID": "1.1"
                 }]
         },{
             "pageID": "F",
@@ -112,6 +112,28 @@
                 },{
                 "choicecontent": "Say, 'You know what? I quit.' And leave the building.",
                 "nextPageID": "H"
+                }]
+        },{
+            "pageID": "G",
+            "pagetitle": "What a drag...",
+            "pagecontent": "<p>You feel the morning drag on after the conclusion of your meeting. You take a couple of calls from customers. You drink two more cups of coffee hoping the caffeine will make the day move faster. You just have to make it until lunch, then you get an entire hour to yourself.</p>",
+            "pageimg": "images/andrew-neel-cckf4TsHAuw-unsplash.jpg",
+            "color": "#DFD2C7",
+            "pagechoice": 
+                [{
+                "choicecontent": "Keep working until lunch time.",
+                "nextPageID": "I"
+                }]
+        },{
+            "pageID": "H",
+            "pagetitle": "First day of the rest of your life.",
+            "pagecontent": "<p>You have never done anything like that. You didn't think you were capable of doing something so reckless.</p><p>You get in your car and pull out of the parking lot. The car to your left was going a lot faster than you had previously judged. You hit the gas as you turn. They almost got hit you. You curse at them while stopped at the light by your office. Your heart rate begins to slow while you wait at the stoplight. You queue up your favorite song to calm yourself down. You pull forward as the light turns green.</p><p>A flash of light catches your eye. You turn your head to see the car that just ran their red light barrel into you.</p>",
+            "pageimg": "images/anton-murygin-r7JGrCfO8_E-unsplash.jpg",
+            "color": "#BEB5B4",
+            "pagechoice": 
+                [{
+                "choicecontent": "Close your eyes and think of your family.",
+                "nextPageID": "1.2"
                 }]
         }
     ]
