@@ -124,7 +124,7 @@
         },{
             "pageID": "E",
             "pagetitle": "Cough. Cough. So Sick.",
-            "pagecontent": "<p>The honking starts to overwhelm you, but the urgency clears your mind. To heck with it. You call in sick. As you pull out into traffic, you queue up the phone app in your car to call your boss letting them know you are not feeling well. The kids must have brought something home from school. You hit the gas in the turn realizing that one of the cars to your left was going a lot faster than you had previously judged. You almost get clipped by them. You yell at them while stopped at the light by your house. You press call and enter the intersection as it turns green.</p><p>&#34;Hey Charlie, its...&#34;</p><p>Then, you see it. The car that is about to barrel into you trying to make the light.</p><p>&#34;Oh, shi	&#151;&#34;</p>",
+            "pagecontent": "<p>The honking starts to overwhelm you, but the urgency clears your mind. To heck with it. You call in sick. As you pull out into traffic, you queue up the phone app in your car to call your boss letting them know you are not feeling well. The kids must have brought something home from school. You hit the gas in the turn realizing that one of the cars to your left was going a lot faster than you had previously judged. You almost get clipped by them. You yell at them while stopped at the light by your house. You press call and enter the intersection as it turns green.</p><p>'Hey Charlie, its...'</p><p>Then, you see it. The car that is about to barrel into you trying to make the light.</p><p>'Oh, shi...';</p>",
             "pageimg": "images/neonbrand-IU4vrMVc_Qc-unsplash.jpg",
             "color": "#445041",
             "pagechoice": 
@@ -143,7 +143,7 @@
                 "choicecontent": "Give your status report and tell the team what you are working on today.",
                 "nextPageID": "G"
                 },{
-                "choicecontent": "Say, &#34;You know what? I quit.&#34; And leave the building.",
+                "choicecontent": "Say, 'You know what? I quit.' And leave the building.",
                 "nextPageID": "H"
                 }]
         },{
@@ -193,7 +193,7 @@
             "color": "#D2CDCA",
             "pagechoice": 
                 [{
-                "choicecontent": "Keep working &#40;and drinking all the coffee&#41; until it is time to go home.",
+                "choicecontent": "Keep working and drinking all the coffee until it is time to go home.",
                 "nextPageID": "K"
                 }]
         },{
