@@ -14,6 +14,39 @@
                 "nextPageID": "A"
                 }]
         },{
+            "pageID": "1.1",
+            "pagetitle": "You are in a Void. Again.",
+            "pagecontent": "<p>Here. Again? You wonder how you got here. This means it isn't a dream. If this isn't a recurring dream, then what is this place? Why does getting close to the button always make you feel so queasy?</p><p>That pit in your stomach is the only reason you haven't pushed the button yet when you dream. You remember the last few seconds. Oh god. Did you just die? You vomit on the floor.</p><p>You look around for the millionth time. There is nothing but darkness. Nothing but the void and the button. You have nothing to lose and nowhere to go.</p><p>Your hand hovers just above the button. </p>",
+            "pageimg": "images/PtB-center.jpg",
+            "color": "#ea5a54",
+            "pagechoice": 
+                [{
+                "choicecontent": "Press the button",
+                "nextPageID": "2"
+                }]
+        },{
+            "pageID": "1.2",
+            "pagetitle": "You are in a Void. Again.",
+            "pagecontent": "<p>Seriously? Here? Again? You look around for the millionth time. There is nothing but darkness. Nothing but the void and the button. You have nothing to lose and nowhere to go. There is no exit and you have put this off long enough.</p><p>Your hand hovers just above the button.</p>",
+            "pageimg": "images/PtB-center.jpg",
+            "color": "#ea5a54",
+            "pagechoice": 
+                [{
+                "choicecontent": "Press the button",
+                "nextPageID": "2"
+                }]
+        },{
+            "pageID": "1.3",
+            "pagetitle": "What is this place?",
+            "pagecontent": "<p>This means it isn't a dream. If this isn't a recurring dream, then what is this place? Why does getting close to the button always make you feel so queasy?</p><p>That pit in your stomach is the only reason you haven't pushed the button yet when you dream. You remember the last few seconds. Oh god. Did you just die? You vomit on the floor.</p><p>You look around for the millionth time. There is nothing but darkness. Nothing but the void and the button. You have nothing to lose and nowhere to go.</p><p>Your hand hovers just above the button. </p>",
+            "pageimg": "images/PtB-center.jpg",
+            "color": "#ea5a54",
+            "pagechoice": 
+                [{
+                "choicecontent": "Press the button",
+                "nextPageID": "2"
+                }]
+        },{
             "pageID": "2",
             "pagetitle": "Transported",
             "pagecontent": "<p>You are transported into a bright field of tall green grasses and wildflowers you have never seen before.</p><p>You are on a gravel path. As you follow the path, you hear the sound of the pebbles shifting beneath your feet and feel the lightly-scented, fresh air brush against your skin.</p><p>At the top of a hill, there is a sign next to the path that reads:</p><p>Welcome, traveler. You are now leaving Voidspace. Welcome to the Crossroads Realm. You are currently at realm access point JX-27-Orange-Quokka-93.</p><p>In the distance, you see a tall stone structure that looks pristine yet ancient.<br /></p><p>As you walk closer, you see three arches light up before you. In each archway, there is an incongruous scene with the world around you.</p>",
@@ -133,7 +166,7 @@
             "pagechoice": 
                 [{
                 "choicecontent": "Close your eyes and think of your family.",
-                "nextPageID": "1.2"
+                "nextPageID": "1.3"
                 }]
         },{
             "pageID": "I",
@@ -147,7 +180,7 @@
                 "nextPageID": "J"
                 },{
                 "choicecontent": "Set an alarm and nap until you have to go back in.",
-                "nextPageID": "1.3"
+                "nextPageID": "1.2"
                 },{
                 "choicecontent": "Leave the office and drive around until 1PM to kill time.",
                 "nextPageID": "K"
@@ -172,7 +205,7 @@
             "pagechoice": 
                 [{
                 "choicecontent": "Close your eyes and think of your family.",
-                "nextPageID": "1.4"
+                "nextPageID": "1.3"
                 }]
         }
     ]
