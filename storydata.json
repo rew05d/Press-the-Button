@@ -44,7 +44,7 @@
         },{
             "pageID": "A",
             "pagetitle": "Your alarm clock wakes you up.",
-            "pagecontent": "<p>You feel the other side of your bed. It is empty and cold. Your spouse has already left for their long commute into the city to go to work.</p><p>You go downstairs to the smell of coffee and the silence of the early morning.</p><p>Your spouse getting a new job means you have to get the kids ready for school.</p>",
+            "pagecontent": "<p>You feel the other side of your bed. It is empty and cold. Your spouse has already left for their job. It is your day to get the kids up and out to school.</p><p>You go downstairs to the smell of coffee and the silence of the early morning.</p><p>Your spouse getting a new job means you have to get the kids ready for school.</p>",
             "pageimg": "images/ALARMCLOCK.jpg",
             "color": "#504d66",
             "pagechoice": 
@@ -66,21 +66,21 @@
         },{
             "pageID": "C",
             "pagetitle": "The Morning Commute",
-            "pagecontent": "<p>You turn the keys and hear the engine turn over. The tire pressure button comes on. You really need to put more air in your tires. You queue up your weekly playlist on Spotify, hoping for the new music to cheer you up.</p><p>You sigh.</p><p>You pull out of your assigned parking space and head to the stop sign that takes you out of your neighborhood and towards work. You stop at the stop sign. This is the hardest part of every morning.</p><p>Turning right takes you to work. It is the beginning of your hour-long commute. Going right means another day at a job you hate, but because of your family, you are stuck in for the foreseeable future.</p><p>Turning left takes you anywhere else. You could skip work today. You could quit your job and find something else. Maybe.</p><p>The cars behind you start honking to make your decision.</p>",
+            "pagecontent": "<p>You turn the keys and hear the engine turn over. The tire pressure button comes on. You really need to put more air in your tires. You queue up your weekly playlist on Spotify, hoping for the new music to cheer you up.</p><p>You sigh.</p><p>You pull out of your assigned parking space and head to the stop sign that takes you out of your neighborhood and towards work. You stop at the stop sign. This is the hardest part of every morning.</p><p>Turning right takes you to work. It is the beginning of your hour long commute. Going right means another day at a job you hate, but because of your family, you are stuck in for the foreseeable future.</p><p>Turning left takes you anywhere else. You could skip work today. You could quit your job and find something else. Maybe.</p><p>The cars behind you start honking to make your decision.</p>",
             "pageimg": "images/anwaar-ali-Aax_R3pUyzs-unsplash.jpg",
             "color": "#673940",
             "pagechoice": 
                 [{
                 "choicecontent": "Turn Right. Be Responsible. Go to work.",
-                "nextPageID": "C-Right"
+                "nextPageID": "CRight"
                 },{
                 "choicecontent": "Turn left and call in sick today.",
-                "nextPageID": "C-Left"
+                "nextPageID": "CLeft"
                 }]
         },{
-            "pageID": "C-Right",
+            "pageID": "CRight",
             "pagetitle": "Another Day at the office",
-            "pagecontent": "<p>You pull into the parking lot at work. You are 7 minutes later than you should have been. Hopefully, your boss is not in one of those moods again. You wave at the receptionist and go up to the third floor to your desk. You sit down at your computer.</p>",
+            "pagecontent": "<p>You pull into the parking lot at work. You are 7 minutes later than you should have been. Hopefully, your boss is not in one of their moods again. You wave at the receptionist and go up to the third floor to your desk. You sit down at your computer.</p>",
             "pageimg": "images/alex-kotliarskyi-QBpZGqEMsKg-unsplash.jpg",
             "color": "#7d7671",
             "pagechoice": 
@@ -89,9 +89,9 @@
                 "nextPageID": "1"
                 }]
         },{
-            "pageID": "C-Left",
+            "pageID": "CLeft",
             "pagetitle": "Cough Cough. So Sick.",
-            "pagecontent": "<p>The honking starts to overwhelm you but the urgency clears your mind. To heck with it. You call in sick. As you pull out into traffic you queue up the phone app in your car to call your boss letting them know you are not feeling well. The kids must have brought something home from school. You hit the gas in the turn realizing that one of the cars to your left was going a lot faster than you had previously judged. You almost got clipped by them. You yell at them while stopped at the light by your house.You press call and enter the intersection as it turns green.</p><p>Hey Charlie, its--</p><p>Then you see it--the car about to hit you. Someone decided to run the red light.</p><p>Oh, sh--</p>",
+            "pagecontent": "<p>The honking starts to overwhelm you but the urgency clears your mind. To heck with it. You call in sick. As you pull out into traffic you queue up the phone app in your car to call your boss letting them know you are not feeling well. The kids must have brought something home from school. You hit the gas in the turn realizing that one of the cars to your left was going a lot faster than you had previously judged. You almost got clipped by them. You yell at them while stopped at the light by your house.You press call and enter the intersection as it turns green.</p><p>Hey Charlie, its...</p><p>Then you see it. The car that is about to barrel into you trying to make the light.</p><p>Oh, shit.</p>",
             "pageimg": "images/neonbrand-IU4vrMVc_Qc-unsplash.jpg",
             "color": "#445041",
             "pagechoice": 
