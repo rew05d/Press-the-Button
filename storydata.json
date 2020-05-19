@@ -86,7 +86,7 @@
             "pagechoice": 
                 [{
                 "choicecontent": "Begin working.",
-                "nextPageID": "1"
+                "nextPageID": "F"
                 }]
         },{
             "pageID": "E",
@@ -98,6 +98,20 @@
                 [{
                 "choicecontent": "Close your eyes and hope you live.",
                 "nextPageID": "1"
+                }]
+        },{
+            "pageID": "F",
+            "pagetitle": "Team work, team work, team work.",
+            "pagecontent": "<p>Every morning at 10, you have to go to your team's daily meeting. You look at the clock on your computer and realize it started two minutes ago. Late again. You get up and head to the small conference room.</p><p>The meeting is already on going and everyone looks at you when you enter. Your name is called to give a progress report on what you worked on.</p>",
+            "pageimg": "images/antenna-cw-cj_nFa14-unsplash.jpg",
+            "color": "#D3A893",
+            "pagechoice": 
+                [{
+                "choicecontent": "Give your status report and tell the team what you are working on today.",
+                "nextPageID": "G"
+                },{
+                "choicecontent": "Say, 'You know what? I quit.' And leave the building.",
+                "nextPageID": "H"
                 }]
         }
     ]
