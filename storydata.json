@@ -2,7 +2,7 @@
     "pages": [{
         "pageID": "1",
         "pagetitle": "You are in a Void.",
-        "pagecontent": "<p>When you look around you see nothing. You have never seen another person or thing here, except for the button. Every time you get close to the button you feel nauseous. You feel a sinking feeling in the pit of your stomach.</p> <p>It doesn't feel like any other dream you have ever had. Time moves as if you are counting every second until your alarm goes off.</p><p> Every night you are given the same choice: to press the button or not. You've not pressed it for months because of how getting close to it makes you feel. It feels wrong. But you can't take it for much longer. Maybe tonight you'll finally press it.</p><p>You stand in front of the button. You feel like you are about to throw up. Your hand hovers above the button.</p>",
+        "pagecontent": "<p>When you look around you see nothing. You have never seen another person or thing here... only the button. Every time you get close to the button you feel nauseous. You feel a sinking feeling in the pit of your stomach.</p> <p>This dark place feels unlike any other dream you have ever had. Time moves as if you are counting every second until your alarm goes off.</p><p> Every night you are given the same choice. To press the button or not. You've not pressed it for months because of how getting close to it makes you feel. It feels wrong. But you can't take it for much longer. Maybe tonight you will finally press it.</p><p>You stand in front of the button. You feel like you are about to throw up. Your hand hovers above the button.</p>",
         "pageimg": "images/PtB-center.jpg",
         "color": "#ea5a54",
         "pagechoice": [{
@@ -15,7 +15,7 @@
     }, {
         "pageID": "VS1",
         "pagetitle": "You are in a Void. Again.",
-        "pagecontent": "<p>Here. Again? You wonder how you got here. This means it isn't a dream. If this isn't a recurring dream, then what is this place? Why does getting close to the button always make you feel so queasy?</p><p>That pit in your stomach is the only reason you haven't pushed the button yet when you dream. You remember the last few seconds. Oh god. Did you just die? You vomit on the floor.</p><p>You look around for the millionth time. There is nothing but darkness. Nothing but the void and the button. You have nothing to lose and nowhere to go.</p><p>Your hand hovers just above the button. </p>",
+        "pagecontent": "<p>Here. Again? You wonder how you got here. This means that is a place and is not a dream? If that is the case, then where are you? Why does getting close to the button always make you feel so queasy?</p><p>That pit in your stomach is the only reason you have yet to push the button. You think back to the last few seconds. Oh god. Did you just die? You vomit on the floor.</p><p>You look around for the millionth time. There is nothing but darkness. Nothing but the void and the button. You have nothing to lose and nowhere to go.</p><p>Your hand hovers just above the button. </p>",
         "pageimg": "images/PtB-center.jpg",
         "color": "#ea5a54",
         "pagechoice": [{
@@ -25,17 +25,7 @@
     }, {
         "pageID": "VoidSpace2",
         "pagetitle": "You are in a Void. Again.",
-        "pagecontent": "<p>Seriously? Here? Again? You look around for the millionth time. There is nothing but darkness. Nothing but the void and the button. You have nothing to lose and nowhere to go. There is no exit and you have put this off long enough.</p><p>Your hand hovers just above the button.</p>",
-        "pageimg": "images/PtB-center.jpg",
-        "color": "#ea5a54",
-        "pagechoice": [{
-            "choicecontent": "Press the button",
-            "nextPageID": "2"
-        }]
-    }, {
-        "pageID": "voidspace3",
-        "pagetitle": "What is this place?",
-        "pagecontent": "<p>This means it isn't a dream. If this isn't a recurring dream, then what is this place? Why does getting close to the button always make you feel so queasy?</p><p>That pit in your stomach is the only reason you haven't pushed the button yet when you dream. You remember the last few seconds. Oh god. Did you just die? You vomit on the floor.</p><p>You look around for the millionth time. There is nothing but darkness. Nothing but the void and the button. You have nothing to lose and nowhere to go.</p><p>Your hand hovers just above the button. </p>",
+        "pagecontent": "<p>Seriously? Here? Again? You look around for the millionth time. There is nothing but darkness. Nothing but the void and the button. There is no exit and you need to sleep. It no longer matters how it makes you feel. If pressing this thing means you finally get to rest, it is time to do it. You have put it off for long enough. You have nothing to lose and nowhere to go. </p><p>Your hand hovers just above the button.</p>",
         "pageimg": "images/PtB-center.jpg",
         "color": "#ea5a54",
         "pagechoice": [{
@@ -152,7 +142,7 @@
         "color": "#BEB5B4",
         "pagechoice": [{
             "choicecontent": "Close your eyes and think of your family.",
-            "nextPageID": "voidspace3"
+            "nextPageID": "VS1"
         }]
     }, {
         "pageID": "I",
@@ -183,12 +173,12 @@
     }, {
         "pageID": "K",
         "pagetitle": "Leaving Work",
-        "pagecontent": "<p>You pull out of the parking lot and immediately press the gas to the floor as you turn. The car to your left was going a lot faster than you had judged. You almost got hit by that !#@$#^*. You yell at them from your car while stopped at the light by your office. Your heart rate begins to slow while you wait at the stoplight. You queue up your favorite song to calm yourself down. You try to remember if tonight will be meatloaf or lasagna and salad for dinner. </p><p>You pull forward as the light turns green. A flash of light catches your eye. You turn your head to see the car that just ran their red light barrel into you.</p>",
+        "pagecontent": "<p>You pull out of the parking lot and immediately press the gas to the floor as you turn. The car to your left was going a lot faster than you had judged. You almost got hit by that guy. You yell at them from your car while stopped at the light by your office. Your heart rate begins to slow while you wait at the stoplight. You queue up your favorite song to calm yourself down. You try to remember if tonight will be meatloaf or lasagna and salad for dinner. </p><p>You pull forward as the light turns green. A flash of light catches your eye. You turn your head to see the car that just ran their red light barrel into you.</p>",
         "pageimg": "images/marina-reich-MPLQfesUAhU-unsplash.jpg",
         "color": "#8D9792",
         "pagechoice": [{
             "choicecontent": "Close your eyes and think of your family.",
-            "nextPageID": "voidspace3"
+            "nextPageID": "VS1"
         }]
     }]
 }
