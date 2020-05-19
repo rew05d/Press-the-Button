@@ -14,7 +14,7 @@
                 "nextPageID": "A"
                 }]
         },{
-            "pageID": "1.1",
+            "pageID": "VS1",
             "pagetitle": "You are in a Void. Again.",
             "pagecontent": "<p>Here. Again? You wonder how you got here. This means it isn't a dream. If this isn't a recurring dream, then what is this place? Why does getting close to the button always make you feel so queasy?</p><p>That pit in your stomach is the only reason you haven't pushed the button yet when you dream. You remember the last few seconds. Oh god. Did you just die? You vomit on the floor.</p><p>You look around for the millionth time. There is nothing but darkness. Nothing but the void and the button. You have nothing to lose and nowhere to go.</p><p>Your hand hovers just above the button. </p>",
             "pageimg": "images/PtB-center.jpg",
@@ -25,7 +25,7 @@
                 "nextPageID": "2"
                 }]
         },{
-            "pageID": "1.2",
+            "pageID": "VoidSpace2",
             "pagetitle": "You are in a Void. Again.",
             "pagecontent": "<p>Seriously? Here? Again? You look around for the millionth time. There is nothing but darkness. Nothing but the void and the button. You have nothing to lose and nowhere to go. There is no exit and you have put this off long enough.</p><p>Your hand hovers just above the button.</p>",
             "pageimg": "images/PtB-center.jpg",
@@ -36,7 +36,7 @@
                 "nextPageID": "2"
                 }]
         },{
-            "pageID": "1.3",
+            "pageID": "voidspace3",
             "pagetitle": "What is this place?",
             "pagecontent": "<p>This means it isn't a dream. If this isn't a recurring dream, then what is this place? Why does getting close to the button always make you feel so queasy?</p><p>That pit in your stomach is the only reason you haven't pushed the button yet when you dream. You remember the last few seconds. Oh god. Did you just die? You vomit on the floor.</p><p>You look around for the millionth time. There is nothing but darkness. Nothing but the void and the button. You have nothing to lose and nowhere to go.</p><p>Your hand hovers just above the button. </p>",
             "pageimg": "images/PtB-center.jpg",
