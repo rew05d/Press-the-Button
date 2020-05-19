@@ -35,7 +35,7 @@
     }, {
         "pageID": "2",
         "pagetitle": "Transported",
-        "pagecontent": "<p>You are transported into a bright field of tall green grasses and wildflowers you have never seen before.</p><p>You are on a gravel path. As you follow the path, you hear the sound of the pebbles shifting beneath your feet and feel the lightly-scented, fresh air brush against your skin.</p><p>At the top of a hill, there is a sign next to the path that reads:</p><p>&quot;Welcome, traveler. You are now leaving Voidspace. Welcome to the Crossroads Realm. You are currently at realm access point JX-27-Orange-Quokka-93.&quot;</p><p>In the distance, you see a tall stone structure that looks pristine yet ancient.<br /></p><p>As you walk closer, you see three arches light up before you. In each archway, there is an incongruous scene with the world around you.</p>",
+        "pagecontent": "<p>You are transported into a bright field of tall green grasses and wildflowers you have never seen before.</p><p>You are on a gravel path. As you follow the path, you hear the sound of the pebbles shifting beneath your feet and feel the lightly-scented, fresh air brush against your skin.</p><p>At the top of a hill, there is a sign next to the path that reads:</p><p>&quot;Welcome, traveler. You are now leaving Voidspace. Welcome to the Crossroads Realm. You are currently at realm access point JX-27-Orange-Quokka-93.&quot;</p><p>In the distance, you see a tall stone structure that looks pristine yet ancient.</p>",
         "pageimg": "images/to-the-portal-realm.jpg",
         "color": "#4b4e22",
         "pagechoice": [{
@@ -45,18 +45,34 @@
     }, {
         "pageID": "3",
         "pagetitle": "Portal Realm",
-        "pagecontent": "<p>As you walk closer, you see three arches light up before you. In each archway, there is an incongruous scene with the world around you. </p>",
+        "pagecontent": "<p>As you walk closer, you see three arches light up before you. In each archway, there is an incongruous scene with the world around you. The structure looks ancient yet the what is on the other side of this portal is completely different. It is as if you are peering into different worlds, different parts and maybe even times in the universe. After a few calming breaths, you approach the structure.</p>",
         "pageimg": "images/portalrealm.jpg",
         "color": "#5289bd",
         "pagechoice": [{
             "choicecontent": "Walk towards the arch on the left",
-            "nextPageID": "3-Left"
+            "nextPageID": "3L"
         }, {
             "choicecontent": "Walk towards the center arch",
-            "nextPageID": "3-Center"
+            "nextPageID": "3C"
         }, {
             "choicecontent": "Walk towards the arch on the right",
-            "nextPageID": "3-Right"
+            "nextPageID": "3R"
+        }]
+    }, {
+        "pageID": "3R",
+        "pagetitle": "See you later, Space Cowboy!",
+        "pagecontent": "<p>You see the interior of a spaceship that looks like it should be in a movie set. A few crew members occasionally walk to and from different rooms that you cannot see.</p><p>You hear their muffled unclear conversations. You yell but no one reacts. They cannot hear you.</p><p>As you look at a nearby panel, you see a critical warning that no one seems to notice. A warning dialog appears: </p><p>&quot;Critical Warning Error Message 611V: The ship's pressure maintenance valve is failing. Please correct this issue immediately. Failure to do so may result in, loss of ship oxygen and loss of life.&quot;</p>",
+        "pageimg": "images/portalrealm-right.jpg",
+        "color": "#648473",
+        "pagechoice": [{
+            "choicecontent": "Walk through the arch and save the crew.",
+            "nextPageID": "4"
+        }, {
+            "choicecontent": "Ignore it and return to the center arch.",
+            "nextPageID": "3C"
+        }, {
+            "choicecontent": "Ignore it and go to the left arch.",
+            "nextPageID": "3R"
         }]
     }, {
         "pageID": "A",
