@@ -23,7 +23,7 @@
             "nextPageID": "2"
         }]
     }, {
-        "pageID": "VoidSpace2",
+        "pageID": "1.2",
         "pagetitle": "You are in a Void. Again.",
         "pagecontent": "<p>Seriously? Here? Again? You look around for the millionth time. There is nothing but darkness. Nothing but the void and the button. There is no exit and you need to sleep. It no longer matters how it makes you feel. If pressing this thing means you finally get to rest, it is time to do it. You have put it off for long enough. You have nothing to lose and nowhere to go. </p><p>Your hand hovers just above the button.</p>",
         "pageimg": "images/PtB-center.jpg",
@@ -142,7 +142,7 @@
         "color": "#BEB5B4",
         "pagechoice": [{
             "choicecontent": "Close your eyes and think of your family.",
-            "nextPageID": "VS1"
+            "nextPageID": "1.1"
         }]
     }, {
         "pageID": "I",
@@ -155,7 +155,7 @@
             "nextPageID": "J"
         }, {
             "choicecontent": "Set an alarm and nap until you have to go back in.",
-            "nextPageID": "VoidSpace2"
+            "nextPageID": "1.2"
         }, {
             "choicecontent": "Leave the office and drive around until 1PM to kill time.",
             "nextPageID": "K"
@@ -178,7 +178,7 @@
         "color": "#8D9792",
         "pagechoice": [{
             "choicecontent": "Close your eyes and think of your family.",
-            "nextPageID": "VS1"
+            "nextPageID": "1.1"
         }]
     }]
 }
