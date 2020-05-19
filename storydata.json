@@ -1,6 +1,5 @@
-{
-    "pages": 
-        [{
+{"pages":[
+        {
             "pageID": "1",
             "pagetitle": "You are in a Void.",
             "pagecontent": "<p>When you look around you see nothing. You have never seen another person or thing here, except for the button. Every time you get close to the button you feel nauseous. You feel a sinking feeling in the pit of your stomach.</p> <p>It doesn't feel like any other dream you have ever had. Time moves as if you are counting every second until your alarm goes off.</p><p> Every night you are given the same choice: to press the button or not. You've not pressed it for months because of how getting close to it makes you feel. It feels wrong. But you can't take it for much longer. Maybe tonight you'll finally press it.</p><p>You stand in front of the button. You feel like you are about to throw up. Your hand hovers above the button.</p>",
@@ -87,7 +86,7 @@
             "pagechoice": 
                 [{
                 "choicecontent": "Begin working.",
-                "nextPageID": "D"
+                "nextPageID": "1"
                 }]
         },{
             "pageID": "C-Left",
@@ -97,8 +96,8 @@
             "color": "#445041",
             "pagechoice": 
                 [{
-                "choicecontent": "Begin working.",
-                "nextPageID": "1.1"
+                "choicecontent": "Close your eyes and hope you live.",
+                "nextPageID": "1"
                 }]
         }
     ]
