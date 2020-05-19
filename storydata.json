@@ -79,8 +79,8 @@
                 }]
         },{
             "pageID": "D",
-            "pagetitle": "Another Day at the office",
-            "pagecontent": "<p>You pull into the parking lot at work. You are 7 minutes later than you should have been. Hopefully, your boss is not in one of their moods again. You wave at the receptionist and go up to the third floor to your desk. You sit down at your computer.</p>",
+            "pagetitle": "Another day at the office...",
+            "pagecontent": "<p>You pull into the parking lot at work. You are late. Hopefully, your boss is not in one of their moods again. You wave at the receptionist and go up to the third floor to your desk.</p>",
             "pageimg": "images/alex-kotliarskyi-QBpZGqEMsKg-unsplash.jpg",
             "color": "#7d7671",
             "pagechoice": 
@@ -90,8 +90,8 @@
                 }]
         },{
             "pageID": "E",
-            "pagetitle": "Cough Cough. So Sick.",
-            "pagecontent": "<p>The honking starts to overwhelm you but the urgency clears your mind. To heck with it. You call in sick. As you pull out into traffic you queue up the phone app in your car to call your boss letting them know you are not feeling well. The kids must have brought something home from school. You hit the gas in the turn realizing that one of the cars to your left was going a lot faster than you had previously judged. You almost got clipped by them. You yell at them while stopped at the light by your house.You press call and enter the intersection as it turns green.</p><p>Hey Charlie, its...</p><p>Then you see it. The car that is about to barrel into you trying to make the light.</p><p>Oh, shit.</p>",
+            "pagetitle": "Cough. Cough. So Sick.",
+            "pagecontent": "<p>The honking starts to overwhelm you, but the urgency clears your mind. To heck with it. You call in sick. As you pull out into traffic, you queue up the phone app in your car to call your boss letting them know you are not feeling well. The kids must have brought something home from school. You hit the gas in the turn realizing that one of the cars to your left was going a lot faster than you had previously judged. You almost get clipped by them. You yell at them while stopped at the light by your house. You press call and enter the intersection as it turns green.</p><p>Hey Charlie, its...</p><p>Then, you see it. The car that is about to barrel into you trying to make the light.</p><p>Oh, shit.</p>",
             "pageimg": "images/neonbrand-IU4vrMVc_Qc-unsplash.jpg",
             "color": "#445041",
             "pagechoice": 
