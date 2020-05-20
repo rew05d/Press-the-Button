@@ -60,12 +60,12 @@
         }]
     }, {
         "pageID": "3L",
-        "pagetitle": "Whispers in the Dark...",
+        "pagetitle": "Whispers in the Dark",
         "pagecontent": "<p>Before you is the remains of a crumbling remains of an old stone structure. There is green overgrowth sprawling across every stone making the space, although empty, inviting. There is a calming feeling about this place. You hear the trickle of a stream pouring over the steps that somehow stop at the archway entrance. If you peer further into the portal, for that is surely what these are, there is a floating emerald at the top of the source of the stream in the abandoned building. As you see it, it glows, illuminating a long stretch of hallway or aquaduct. That's when the whispers start. At first, it feels like when you are in a crowded room and you think you hear your name. However, after a few moments you feel as though the emerald is breathing the whispers as it glows and the leaves are slowly joining with their voices. The whispers form a song that the entire realm seems to be singing to you. It is singing your name.</p>",
         "pageimg": "images/portalrealm-left.jpg",
         "color": "#43AF89",
         "pagechoice": [{
-            "choicecontent": "Walk through the arch and investigate the source of the whispers in the overgrown castle.",
+            "choicecontent": "Investigate the source of the whispers in the overgrown castle.",
             "nextPageID": "4L"
         }, {
             "choicecontent": "Ignore it and look at the center arch.",
@@ -79,9 +79,9 @@
         "pagetitle": "Like tears in the rain",
         "pagecontent": "<p>As you approach the center arch, you hear the crack of a gun shot. You see an alleyway in some unknown city. The light up neon lights keep shifting between languages. It looks like some weird cyberpunk noir city. You hear the sound of the city, the pattering of the rain, and the slap of hard soled shoes running on the pavement. A hovering car flashes lights down the alleyway, nearly blinding you. In the light, you see a figure running towards you. They look like they are running towards you. They lock eyes with you. </p><p>&quot;Help!&quot; They cry. </p><p>&quot;You've got to help me.&quot;</p><p>You smell the rank garbage and see the fear on the face sprinting towards you. Another shot in the dark from the hovering car. This time it hits the person running at you. They cry out in agony. They are on the ground reaching out towards you. &quot;Please, help me.&quot;</p>",
         "pageimg": "images/portalrealm-center.jpg",
-        "color": "#43AF89",
+        "color": "#C2B1CA",
         "pagechoice": [{
-            "choicecontent": "Walk through the central arch and to help the fallen individual.",
+            "choicecontent": "Help the fallen individual.",
             "nextPageID": "4C"
         }, {
             "choicecontent": "Go to the left arch.",
@@ -97,7 +97,7 @@
         "pageimg": "images/portalrealm-right.jpg",
         "color": "#648473",
         "pagechoice": [{
-            "choicecontent": "Walk through the arch and save the crew.",
+            "choicecontent": "Save the crew.",
             "nextPageID": "4R"
         }, {
             "choicecontent": "Ignore it and return to the center arch.",
@@ -105,6 +105,36 @@
         }, {
             "choicecontent": "Ignore it and go to the left arch.",
             "nextPageID": "3L"
+        }]
+    }, {
+        "pageID": "4L",
+        "pagetitle": "Leaf on the Wind",
+        "pagecontent": "<p>As soon as you walk through the archway, the softly sung whispers stop and you are enveloped in silence. There is only the trickle of the stream. You turn around to see your way back to the Crossroads Realm archway has vanished. You panic and run back towards where you were. After a brief panic attack, you sit in the stream and try to regain some semblance of composure. </p><p>Some time later, you stand up, soaked from the waist down after sitting in the water in your panicked state. You begin to walk towards the still glowing, floating emerald.</p>",
+        "pageimg": "images/591c2b5ce42517bc8af169ddc1a126fb.jpg",
+        "color": "#41493B",
+        "pagechoice": [{
+            "choicecontent": "Next",
+            "nextPageID": "5"
+        }]
+    }, {
+        "pageID": "4C",
+        "pagetitle": "A Brave New World",
+        "pagecontent": "<p>The smell hits you first like a slap in the face. It smells like some untold horror that burns your nose. The sounds of the city then wash over you like were standing in front of an impossibly large amplifier playing some post-modern caustic symphony of noise. You hear a gun shot again and realize the hover car occupants are shooting at you. </p><p>You duck behind a dumpter a shot melts through the metal. These are no mere bullets and the dumpster provides as much cover as luck. Upon this realization, you run towards the bleeding woman in front of you. She reaches out and you take her bloody hand. </p>",
+        "pageimg": "images/c1fcc88eb1cf3a383e25433a378e6550.png",
+        "color": "#444A67",
+        "pagechoice": [{
+            "choicecontent": "Next",
+            "nextPageID": "5"
+        }]
+    }, {
+        "pageID": "4R",
+        "pagetitle": "I'd like to speak to the Captain",
+        "pagecontent": "<p>At first, you think its an alarm that is blaring. However, after it repeats, you realize the ear drum shattering sounds are supposed to be music. You look around and see none of the crew. You run from door to door. You look back and see the portal to the Crossroads realm has disappeared. You are on a ship, somewhere with no way to get back to wherever you were. And... what if the crew is not friendly. What if they shoot you on sight? You start to panic at this though, when you see the panel beginning to countdown.</p><p>Oh, right. They can't shoot you if you all run out of oxygen. You breathe deep and take a closer look at the panel before you.</p>",
+        "pageimg": "images/5dece148cc1344c104e6f33ed310e848.jpg",
+        "color": "#B2893A",
+        "pagechoice": [{
+            "choicecontent": "Next",
+            "nextPageID": "5"
         }]
     }, {
         "pageID": "A",
