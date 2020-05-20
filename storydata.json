@@ -74,7 +74,8 @@
             "choicecontent": "Ignore it and inspect the right arch.",
             "nextPageID": "3R"
         }]
-    }, "pageID": "3C",
+    }, {
+        "pageID": "3C",
         "pagetitle": "Like tears in the rain",
         "pagecontent": "<p>As you approach the center arch, you hear the crack of a gun shot. You see an alleyway in some unknown city. The light up neon lights keep shifting between languages. It looks like some weird cyberpunk noir city. You hear the sound of the city, the pattering of the rain, and the slap of hard soled shoes running on the pavement. A hovering car flashes lights down the alleyway, nearly blinding you. In the light, you see a figure running towards you. They look like they are running towards you. They lock eyes with you. </p><p>&quot;Help!&quot; They cry. </p><p>&quot;You've got to help me.&quot;</p><p>You smell the rank garbage and see the fear on the face sprinting towards you. Another shot in the dark from the hovering car. This time it hits the person running at you. They cry out in agony. They are on the ground reaching out towards you. &quot;Please, help me.&quot;</p>",
         "pageimg": "images/portalrealm-center.jpg",
