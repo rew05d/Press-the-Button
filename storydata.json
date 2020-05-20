@@ -65,7 +65,7 @@
         "pageimg": "images/portalrealm-left.jpg",
         "color": "#43AF89",
         "pagechoice": [{
-            "choicecontent": "Investigate the source of the whispers in the overgrown castle.",
+            "choicecontent": "Investigate the source of the whispers.",
             "nextPageID": "4L"
         }, {
             "choicecontent": "Ignore it and look at the center arch.",
